@@ -1,1 +1,1 @@
-# h-zi-feladat
+# hazi-feladat
